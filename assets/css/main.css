@@ -1232,7 +1232,7 @@ section,
 }
 
 .services-bg {
-  background-image: url('/assets/img/construction/sakura-bg.png');
+  background-image: url('assets/img/construction/sakura-bg.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
